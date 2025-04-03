@@ -41,7 +41,7 @@ news-scraper/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/news-scraper.git
+git clone https://github.com/meens-dev/web-scraper-for-news-healines.git
 cd news-scraper
 ```
 
